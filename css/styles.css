@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Bentham', serif;
+  color: #40414E;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Mea Culpa', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Bentham', serif;
+  font-family: 'Almendra SC', serif;
+  font-size: 2.25rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Almendra SC', serif;
+  color: #11999E;
+}
+
+p{
+  line-height:2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Bentham', serif;
+  font-family: 'Almendra SC', serif;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+/*************************************************TAG Selector ***********************************************/
+.pro {
+  text-decoration: underline;
+}
+
+.Intro{
+  width: 30%;
+  margin:auto;
+}
+
+.TopContainer {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.MiddleContainer {
+  background-color: #FFFFFF;
+  margin: 100px 0
+}
+
+.BottomContainer {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.Mayank {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.Web-designing {
+  width: 25%;
+  border-radius: 100%;
+  margin-right: 30px;
+  float: left;
+}
+
+.Painting{
+  width: 15%;
+  border-radius: 100%;
+  margin-right: 30px;
+  float: right;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.poem-text{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.BUTTON_QNI {
+   background: #FEF7DC;
+   background-image: -webkit-linear-gradient(top, #FEF7DC, #1E62D0);
+   background-image: -moz-linear-gradient(top, #FEF7DC, #1E62D0);
+   background-image: -ms-linear-gradient(top, #FEF7DC, #1E62D0);
+   background-image: -o-linear-gradient(top, #FEF7DC, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #FEF7DC, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000957;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #000000;
+   border: outset #DD380D 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_QNI:hover {
+   border: double #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
